@@ -1,0 +1,2 @@
+# typescript
+💻 some typescript lessons
